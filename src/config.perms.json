@@ -1,0 +1,25 @@
+{
+    "permSetup": {
+        "category1": {
+            "subcategory1": {
+                "role1": "ID goes here"
+            },
+            "subcategory2": {
+                "role1": "ID goes here",
+                "role2": "ID goes here"
+            }
+        },
+        "category2": {
+            "subcategory1": {
+                "role1": "ID goes here",
+                "role2": "ID goes here"
+            },
+            "subcategory2": {
+                "role1": "ID goes here"
+            }
+        },
+        "category3": {
+            "role1": "ID goes here"
+        }
+    }
+}
